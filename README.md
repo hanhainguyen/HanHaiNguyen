@@ -9,3 +9,8 @@ My name is Nguyen Han. I am a student, majoring in Control and Automation Engine
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HanHaiNguyen&repo=C&theme=radical" />
 </a>
+
+<a href="https://github.com/hanhainguyen/C-Sharp/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HanHaiNguyen&repo=C-Sharp&theme=merko" />
+</a>
